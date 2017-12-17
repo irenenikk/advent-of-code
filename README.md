@@ -1,1 +1,1 @@
-# [advent-of-code](adventofcode.com/2017)
+# [advent-of-code](https://adventofcode.com/2017)
