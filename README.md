@@ -1,2 +1,1 @@
-# advent-of-code
-Solution to the Advent of Code 2017
+# [advent-of-code](adventofcode.com/2017)
