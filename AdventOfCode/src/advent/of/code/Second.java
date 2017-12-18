@@ -2,10 +2,10 @@ package advent.of.code;
 
 import java.util.Scanner;
 
-public class Second {
+public class Second implements Solution {
     private static Scanner reader;
 
-    public static void main(String[] args) {
+    public void run() {
         reader = new Scanner(System.in);
         twoStars();
     }

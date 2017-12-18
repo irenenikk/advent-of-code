@@ -8,9 +8,9 @@ import java.util.Set;
 /**
  * Created by nikkaire on 17.12.2017.
  */
-public class Fourth {
+public class Fourth implements Solution{
 
-    public static void main(String[] args) {
+    public void run() {
         Scanner reader = new Scanner(System.in);
         String input1 = "aa bb cc dd aaa";
         String input2 = "nyot babgr babgr kqtu kqtu kzshonp ylyk psqk\n" +
