@@ -1,4 +1,6 @@
-package advent.of.code;
+package advent.of.code.oneToFive;
+
+import advent.of.code.Solution;
 
 import java.util.Arrays;
 import java.util.HashSet;
@@ -8,7 +10,7 @@ import java.util.Set;
 /**
  * Created by nikkaire on 17.12.2017.
  */
-public class Fourth implements Solution{
+public class Fourth implements Solution {
 
     public void run() {
         Scanner reader = new Scanner(System.in);

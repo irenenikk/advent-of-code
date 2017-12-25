@@ -1,11 +1,13 @@
-// based on http://markheath.net/post/advent-of-code-2017-day-3
+// two stars is based on http://markheath.net/post/advent-of-code-2017-day-3
 
-package advent.of.code;
+package advent.of.code.oneToFive;
+
+import advent.of.code.Solution;
 
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class Third implements Solution{
+public class Third implements Solution {
     // one star
     private int rightCornerDigit;
     private int input;

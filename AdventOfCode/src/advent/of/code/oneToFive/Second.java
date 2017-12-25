@@ -1,4 +1,6 @@
-package advent.of.code;
+package advent.of.code.oneToFive;
+
+import advent.of.code.Solution;
 
 import java.util.Scanner;
 
